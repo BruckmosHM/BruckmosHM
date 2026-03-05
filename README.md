@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jakob Bruckmoser
+- 👋 Hi, I’m Jakob
 - 👀 I’m interested in Aerospace Engineering
 - 📫 How to reach me zone-koala-agent@duck.com
 
